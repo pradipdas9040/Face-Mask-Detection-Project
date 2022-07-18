@@ -1,2 +1,2 @@
 # Face-Mask-Detection-Project
-I take a dataset of image from Kaggle, then first I make a dataframe with this data and level this as 0, 1 depending on with_mask, no_mask. After some image processing I used CNN. Then I compute confusion matrix, accuracy score, precision, recall,  f1-score.
+I take a dataset of image from Kaggle, then first I make a dataframe with this data and level this as 0, 1 depending on with_mask, no_mask. After some image processing I used 2D-CNN and DenseNet169. Based on the accuracy scores I used 2D-CNN to build the final ML model to classifying images. Then I compute confusion matrix, accuracy score, precision, recall,  f1-score.
